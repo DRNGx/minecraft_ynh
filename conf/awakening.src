@@ -1,1 +1,7 @@
-
+SOURCE_URL=https://www.curseforge.com/minecraft/modpacks/awakening-sky-of-diamonds/download/2889186/file
+SOURCE_SUM=4a74ae962c54ee7fd3a740387f18227
+SOURCE_SUM_PRG=md5
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
+SOURCE_EXTRACT=true
+SOURCE_FILENAME=Sky-of-Diamonds-1.12.1-Server.zip
