@@ -1,4 +1,8 @@
 # Minecraft app for YunoHost
+
+NOT WORKING ATM!
+
+
 Minecraft Server
 
 - [Yunohost project](https://yunohost.org)
